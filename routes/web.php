@@ -12,3 +12,4 @@
 */
 
 Route::get('/books', 'BookController@index');
+route::get('/books/id``')
